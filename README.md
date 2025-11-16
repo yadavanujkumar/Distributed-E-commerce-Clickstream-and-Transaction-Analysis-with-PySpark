@@ -176,10 +176,6 @@ Processed data is saved in Parquet format:
 
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
-## Author
-
-Yadav Anuj Kumar
-
 ## Acknowledgments
 
 - Apache Spark for distributed computing framework
